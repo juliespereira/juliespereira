@@ -31,7 +31,7 @@ Sou estudante de Ciência da Computação, já participei de Empresa Júnior ond
 
 :boom:  &nbsp; Estudo no **Instituto Federal do Sudeste de Minas Gerais** e estou como voluntária no Grupo **Meninas Digitais**
  <br/> 💬  &nbsp; Sobre mim: Ligada no twitter, jogo LoL e vejo seriados na Netflix
- <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/julie-pereira-3b4924152/
+ <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/juliespereira/
 | 
 email: juliespereira7@gmail.com
 
