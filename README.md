@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 # Julie Pereira
 
-Bacharel em Ciência da Computação, já participei de Empresa Júnior onde atuei na parte do Marketing e na presidência, em projetos como bolsista de Extensão e Iniciação Científica, utilizando ferramentas como Blender, Unity 3D, HTML, CSS, JavaScript e PHP. Atuo no suporte de sistema em Delphi e estou em busca de migrar para o Frent-end e o UX/UI Design e sempre em busca de um melhor conhecimento sobre as ferramentas da área.
+Bacharel em Ciência da Computação, já participei de Empresa Júnior onde atuei na parte do Marketing e na presidência, em projetos como bolsista de Extensão e Iniciação Científica, utilizando Blender, Unity 3D, HTML, CSS, JavaScript e PHP. Atuo no suporte de um sistema de gestão em Delphi e estou em busca de migrar para o Front-end e o UX/UI Design.
 
 
 :boom:  &nbsp; Estudei no **Instituto Federal do Sudeste de Minas Gerais** e trabalho em uma Empresa de Energia Elétrica
