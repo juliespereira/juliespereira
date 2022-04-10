@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-- Sou estudante de Ciência da Computação, já participei de Empresa Júnior onde atuei na parte do Marketing. Atualmente estou prestes a me formar e estou em busca de um melhor conhecimento sobre as ferramentas da área.
+- Bacharel em Ciência da Computação, já participei de Empresa Júnior onde atuei na parte do Marketing e na presidência, em projetos como bolsista de Extensão e Iniciação Científica, utilizando ferramentas como Blender, Unity 3D, HTML, CSS, JavaScript e PHP. Atuo no suporte de sistema em Delphi e estou em busca de migrar para o Frent-end e o UX/UI Design e sempre em busca de um melhor conhecimento sobre as ferramentas da área.
+
 - Email: juliespereira7@gmail.com | LinkedIn: https://www.linkedin.com/in/julie-pereira-3b4924152/ 
 - Estudo no Instituto Federal do Sudeste de Minas Gerais e estou como voluntária no Grupo Meninas Digitais
-- Unity, FIGMA e UX Design
+- Unity, Blender, FIGMA e UX Design
 - Em que você procura colaborar
 - Com o que você pode ajudar quem estiver precisando
 - Como entrar com contato com você
@@ -29,8 +30,8 @@ Here are some ideas to get you started:
 
 Sou estudante de Ciência da Computação, já participei de Empresa Júnior onde atuei na parte do Marketing. Atualmente estou prestes a me formar, por isso busco um melhor conhecimento sobre as ferramentas da área.
 
-:boom:  &nbsp; Estudo no **Instituto Federal do Sudeste de Minas Gerais** e estou como voluntária no Grupo **Meninas Digitais**
- <br/> 💬  &nbsp; Sobre mim: Ligada no twitter, jogo LoL e vejo seriados na Netflix
+:boom:  &nbsp; Estudei no **Instituto Federal do Sudeste de Minas Gerais** e trabalho em uma Empresa de Energia Elétrica
+ <br/> 💬  &nbsp; Sobre mim: Ligada no twitter, jogo LOL e viciada em seriados e desenhos animados
  <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/juliespereira/
 | 
 email: juliespereira7@gmail.com
